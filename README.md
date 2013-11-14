@@ -3,5 +3,5 @@ test-app
 
 App for testing Git functionality
 
-Wacky branch
+Wacky branch - 2nd commit
 
